@@ -2,4 +2,6 @@ Hello world.........
 somthing here
 change to modification something  
 
-change to fix bug1
+change 1 : to fix bug1
+
+change 2 : fix this issue
