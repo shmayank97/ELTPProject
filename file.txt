@@ -1,8 +1,8 @@
 Hello world.........
 
-change:- to fix bug1
+change:- to fix bug1.
 
-change :- by team mates W5
+change :- by team mates W5,.
 
 change 1 : to fix bug1
 
